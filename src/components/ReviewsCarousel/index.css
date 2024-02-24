@@ -1,0 +1,27 @@
+/* Write your code here */
+.ReviewsCarousel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  border: none;
+}
+.username {
+  color: #ffffff;
+  font-size: large;
+}
+.companyName {
+  color: #171f46;
+  font-size: medium;
+}
+.description {
+  color: #171f46;
+  font-size: small;
+  width: 50vw;
+}
